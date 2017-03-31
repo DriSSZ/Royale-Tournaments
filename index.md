@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Royale Tournaments
 
-You can use the [editor on GitHub](https://github.com/DriSSZ/tournament.royale/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Royale Tournaments es una app de Android desarrollada por DriSS que sirve para buscar y encontrar torneos abiertos para el juego Clash Royale.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puedes descargar la aplicación haciendo click aquí: [Descargar](https://jekyllrb.com/)
