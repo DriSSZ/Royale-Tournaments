@@ -3,3 +3,6 @@ Royale Tournaments es una app de Android desarrollada por DriSS que sirve para b
 
 ###  [Descarga](https://github.com/DriSSZ/Royale-Tournaments/releases) - o entra en 'Releases'
 Último release público: 1.2U
+
+A implementar en próximas actualizaciones:
+- Permitir a nuestros usuarios publicar sus torneos
